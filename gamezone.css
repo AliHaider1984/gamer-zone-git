@@ -82,6 +82,7 @@ a{
 .kids-club{
     width:50%;
     
+    
 }
 
 .group18 {
@@ -128,3 +129,40 @@ p{
     line-height: 2rem;
     margin-left:1rem;
 }
+
+.funny-2 {
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.online{
+    font-size:2.5rem;
+    font-weight:700;
+    margin-left:30rem;
+}
+
+.collection{
+    font-size:1.rem;
+    color: #534C64;
+    line-height:4rem;
+    margin-left:33rem;
+}
+
+.funny-videos{
+    margin-left:8rem;
+    
+}
+
+.vortex{
+    padding:0.5rem;
+    width:17rem;
+}
+
+.vortex:hover{
+    
+    background-color: #F948B2;
+    
+}
+
